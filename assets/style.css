@@ -1,49 +1,47 @@
 body {
     background-color: #FFF7ED;
-    padding: 70pt;
+    padding: 3rem;
     margin: 0;
-    border-left: 20px solid;
+    border-left: 10px solid;
     border-image: linear-gradient(to bottom, #FFA600 0%, #995200 100%) 1;
 }
+
 h1 {
     color: #7B4000;
-    font-weight: 700;
-    font-size: 48pt;
+    font-size: 2.5rem;
     font-family: 'Arsenal', serif;
-    margin: 20pt 0;
+    font-weight: 700;
+    margin: 1rem 0;
 }
+
 h2 {
     color: #4e2800;
-    font-size: 35pt;
+    font-size: 1.5rem;
     font-family: 'Arsenal', serif;
     font-weight: 300;
-    margin: 7pt 0;
+    margin: 0.5rem 0;
 }
 h3 {
     color: #00000098;
-    font-size: 25pt;
+    font-size: 1.3rem;
     font-family: 'Arsenal', serif;
     font-weight: 200;
-    margin: 5pt 0;
+    margin: 0.3rem 0;
 }
-
 strong {
     font-weight: bold;
-    color: #4e2800;
 }
-
 p {
     color: #000000;
-    font-size: 15pt;
+    font-size: 1rem;
     font-family: 'Literata', serif;
-    margin: 25pt 0;
+    margin: 1rem 0;
     text-align: justify;
 }
-
 a {
     color: #B86B00;
     font-weight: 300;
-    font-size: 15pt;
+    font-size: 1rem 0;
     font-family: 'Literata', serif;
 }
 
