@@ -27,18 +27,23 @@ h3 {
     margin: 5pt 0;
 }
 
+strong {
+    font-weight: bold;
+    color: #4e2800;
+}
+
 p {
     color: #000000;
-    font-size: 1rem;
+    font-size: 15pt;
     font-family: 'Literata', serif;
-    margin: 18pt 0;
+    margin: 25pt 0;
     text-align: justify;
 }
 
 a {
     color: #B86B00;
     font-weight: 300;
-    font-size: 1rem;
+    font-size: 15pt;
     font-family: 'Literata', serif;
 }
 
