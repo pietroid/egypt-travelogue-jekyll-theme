@@ -50,4 +50,27 @@ a {
     body {
         padding: 80pt 180pt;
     }
+
+    h1 {
+        font-size: 3rem;
+        margin: 1.3rem 0;
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin: 1.2rem 0;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+        margin: 0.5rem 0;
+    }
+    
+    p {
+        font-size: 1.1rem;
+    }
+
+    a {
+        font-size: 1.1rem;
+    }
 }
