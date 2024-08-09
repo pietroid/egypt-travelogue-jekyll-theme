@@ -53,6 +53,11 @@ img {
     width: 80%;
 }
 
+img + em { 
+    text-align: center;
+}
+
+
 @media all and (min-width: 1000px) {
     body {
         padding: 80pt 180pt;
