@@ -55,6 +55,7 @@ img {
 
 img + em { 
     text-align: center;
+    margin: 1rem;
 }
 
 
