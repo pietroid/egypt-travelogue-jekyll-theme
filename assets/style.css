@@ -46,7 +46,7 @@ a {
     font-family: 'Literata', serif;
 }
 
-.timestamp {
+.body-content {
     color: #00000098;
     font-size: 0.7rem;
     font-family: 'Literata', serif;
@@ -82,7 +82,7 @@ a {
         font-size: 1.1rem;
     }
 
-    .timestamp {
+    .body-content {
         font-size: 1.1rem;
     }
 }
