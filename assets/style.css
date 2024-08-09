@@ -47,11 +47,10 @@ a {
 }
 
 img {
-    height: 100%;
-    width: 100%;
+    width: 200px;
 }
 
-.body-content {
+#timestamp {
     color: #00000098;
     font-size: 0.7rem;
     font-family: 'Literata', serif;
@@ -87,7 +86,11 @@ img {
         font-size: 1.1rem;
     }
 
-    .body-content {
+    #timestamp {
         font-size: 1.1rem;
+    }
+
+    img {
+        width: 400px;
     }
 }
