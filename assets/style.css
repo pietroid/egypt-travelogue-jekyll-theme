@@ -54,6 +54,7 @@ img {
 }
 
 img + em { 
+    display: block;
     text-align: center;
     margin: 1rem;
 }
