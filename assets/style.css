@@ -53,13 +53,6 @@ img {
     width: 80%;
 }
 
-#timestamp {
-    color: #00000098;
-    font-size: 0.7rem;
-    font-family: 'Literata', serif;
-    margin: 0rem 0;
-}
-
 @media all and (min-width: 1000px) {
     body {
         padding: 80pt 180pt;
@@ -86,10 +79,6 @@ img {
     }
 
     a {
-        font-size: 1.1rem;
-    }
-
-    #timestamp {
         font-size: 1.1rem;
     }
 }
