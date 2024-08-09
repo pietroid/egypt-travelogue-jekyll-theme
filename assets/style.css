@@ -47,7 +47,10 @@ a {
 }
 
 img {
-    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
 
 #timestamp {
@@ -88,9 +91,5 @@ img {
 
     #timestamp {
         font-size: 1.1rem;
-    }
-
-    img {
-        width: 400px;
     }
 }
