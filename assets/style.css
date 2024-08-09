@@ -46,6 +46,11 @@ a {
     font-family: 'Literata', serif;
 }
 
+img {
+    height: 100%;
+    width: 100%;
+}
+
 .body-content {
     color: #00000098;
     font-size: 0.7rem;
